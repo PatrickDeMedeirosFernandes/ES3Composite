@@ -19,6 +19,12 @@ A principal vantagem e talvez mais forte é o fato que clientes os clientes do c
 E com ele temos uma página para somente para controlar e modificar o programa determinado, sem nescessariamente modificar a abstrata.
 
 
+## **Desvantagens**
+
+Por outro lado, este tem a desvantagem de tornar o sistema muito geral. Você pode achar mais difícil para restringir determinadas categorias, quando tal, normalmente, é desejável.
+ 
+
+
 ## **Implementação**
 
 Para implementar o Padrão Composite, é necessário considerar vários aspectos, sendo eles:
